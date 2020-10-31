@@ -1,3 +1,9 @@
 ﻿# angular-contributors
  
- Fetching all angular contributors and counting their contributions and getting data from Fastapi server
+ Fetching all angular contributors 
+ 
+ counting their contributions 
+ 
+ writing data in json
+ 
+ getting data from Fastapi server
